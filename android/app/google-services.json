@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621428389139",
+    "project_id": "thiran-f44c1",
+    "storage_bucket": "thiran-f44c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621428389139:android:da10eb09c4e5677215d6e6",
+        "android_client_info": {
+          "package_name": "com.srinathdev.t2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyQ3QKs6fJTfo4ENXhFkWc8FPRiWH83w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
